@@ -1,0 +1,4 @@
+.env
+chronic_disease.csv
+__pycache__/
+.ipynb_checkpoints/
